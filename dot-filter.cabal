@@ -28,6 +28,7 @@ executable dot-filter
                      , containers
                      , filepath
                      , gitrev
+                     , graphviz
                      , optparse-applicative
                      , text
                      , transformers
